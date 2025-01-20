@@ -1,4 +1,4 @@
-import Minesweeper from '@/components/Minesweeper'
+import Minesweeper from '../src/components/Minesweeper'
 
 export default function Home() {
   return (
